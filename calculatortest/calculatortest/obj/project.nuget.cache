@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "YpbUST1DeoiTEsPAIUamJQ1Gg8mpOg9Br5QVI/ZrOon2mwAP4dqBvjh7I/UZ2Bi32QxD/Cqk/Sy4aDIjRmemsw==",
+  "success": true,
+  "projectFilePath": "D:\\C#\\test1\\Final\\calculatortest\\calculatortest\\calculatortest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\elwady\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.29\\microsoft.windowsdesktop.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\elwady\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.29\\microsoft.netcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\elwady\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.29\\microsoft.aspnetcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\elwady\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.29\\microsoft.netcore.app.host.win-x64.6.0.29.nupkg.sha512"
+  ],
+  "logs": []
+}

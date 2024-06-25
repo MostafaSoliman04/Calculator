@@ -1,0 +1,32 @@
+D:\C#\data structure\calculatortest\calculatortest\bin\Debug\net6.0-windows\calculatortest.exe
+D:\C#\data structure\calculatortest\calculatortest\bin\Debug\net6.0-windows\calculatortest.deps.json
+D:\C#\data structure\calculatortest\calculatortest\bin\Debug\net6.0-windows\calculatortest.runtimeconfig.json
+D:\C#\data structure\calculatortest\calculatortest\bin\Debug\net6.0-windows\calculatortest.dll
+D:\C#\data structure\calculatortest\calculatortest\bin\Debug\net6.0-windows\calculatortest.pdb
+D:\C#\data structure\calculatortest\calculatortest\obj\Debug\net6.0-windows\calculatortest.Form1.resources
+D:\C#\data structure\calculatortest\calculatortest\obj\Debug\net6.0-windows\calculatortest.csproj.GenerateResource.cache
+D:\C#\data structure\calculatortest\calculatortest\obj\Debug\net6.0-windows\calculatortest.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\data structure\calculatortest\calculatortest\obj\Debug\net6.0-windows\calculatortest.AssemblyInfoInputs.cache
+D:\C#\data structure\calculatortest\calculatortest\obj\Debug\net6.0-windows\calculatortest.AssemblyInfo.cs
+D:\C#\data structure\calculatortest\calculatortest\obj\Debug\net6.0-windows\calculatortest.csproj.CoreCompileInputs.cache
+D:\C#\data structure\calculatortest\calculatortest\obj\Debug\net6.0-windows\calculatortest.dll
+D:\C#\data structure\calculatortest\calculatortest\obj\Debug\net6.0-windows\refint\calculatortest.dll
+D:\C#\data structure\calculatortest\calculatortest\obj\Debug\net6.0-windows\calculatortest.pdb
+D:\C#\data structure\calculatortest\calculatortest\obj\Debug\net6.0-windows\calculatortest.genruntimeconfig.cache
+D:\C#\data structure\calculatortest\calculatortest\obj\Debug\net6.0-windows\ref\calculatortest.dll
+D:\C#\test1\Final\calculatortest\calculatortest\bin\Debug\net6.0-windows\calculatortest.exe
+D:\C#\test1\Final\calculatortest\calculatortest\bin\Debug\net6.0-windows\calculatortest.deps.json
+D:\C#\test1\Final\calculatortest\calculatortest\bin\Debug\net6.0-windows\calculatortest.runtimeconfig.json
+D:\C#\test1\Final\calculatortest\calculatortest\bin\Debug\net6.0-windows\calculatortest.dll
+D:\C#\test1\Final\calculatortest\calculatortest\bin\Debug\net6.0-windows\calculatortest.pdb
+D:\C#\test1\Final\calculatortest\calculatortest\obj\Debug\net6.0-windows\calculatortest.Form1.resources
+D:\C#\test1\Final\calculatortest\calculatortest\obj\Debug\net6.0-windows\calculatortest.csproj.GenerateResource.cache
+D:\C#\test1\Final\calculatortest\calculatortest\obj\Debug\net6.0-windows\calculatortest.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\test1\Final\calculatortest\calculatortest\obj\Debug\net6.0-windows\calculatortest.AssemblyInfoInputs.cache
+D:\C#\test1\Final\calculatortest\calculatortest\obj\Debug\net6.0-windows\calculatortest.AssemblyInfo.cs
+D:\C#\test1\Final\calculatortest\calculatortest\obj\Debug\net6.0-windows\calculatortest.csproj.CoreCompileInputs.cache
+D:\C#\test1\Final\calculatortest\calculatortest\obj\Debug\net6.0-windows\calculatortest.dll
+D:\C#\test1\Final\calculatortest\calculatortest\obj\Debug\net6.0-windows\refint\calculatortest.dll
+D:\C#\test1\Final\calculatortest\calculatortest\obj\Debug\net6.0-windows\calculatortest.pdb
+D:\C#\test1\Final\calculatortest\calculatortest\obj\Debug\net6.0-windows\calculatortest.genruntimeconfig.cache
+D:\C#\test1\Final\calculatortest\calculatortest\obj\Debug\net6.0-windows\ref\calculatortest.dll
